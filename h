@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-test
-=======
-not test
->>>>>>> test
+test for pull
+test for push
